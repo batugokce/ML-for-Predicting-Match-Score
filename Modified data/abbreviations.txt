@@ -1,0 +1,10 @@
+HG:Home Goal
+AG:Away Goal
+HAP:Home Average Point
+AAP:Away Average Point
+HLP:Home Latest Point (last 5 matches)
+ALP:Away Latest Point
+HAG:Home Average Goal
+AAG:Away Average Goal
+HAAG:Home Average Against Goal
+AAAG:Away Average Against Goal
